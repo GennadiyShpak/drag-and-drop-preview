@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drag-and-drop-preview/static/css/main.56d1a4c2.chunk.css",
+    "main.js": "/drag-and-drop-preview/static/js/main.843826d7.chunk.js",
+    "main.js.map": "/drag-and-drop-preview/static/js/main.843826d7.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop-preview/static/js/runtime-main.a5fc378f.js",
+    "runtime-main.js.map": "/drag-and-drop-preview/static/js/runtime-main.a5fc378f.js.map",
+    "static/js/2.51f2c38d.chunk.js": "/drag-and-drop-preview/static/js/2.51f2c38d.chunk.js",
+    "static/js/2.51f2c38d.chunk.js.map": "/drag-and-drop-preview/static/js/2.51f2c38d.chunk.js.map",
+    "static/js/3.f8aa353f.chunk.js": "/drag-and-drop-preview/static/js/3.f8aa353f.chunk.js",
+    "static/js/3.f8aa353f.chunk.js.map": "/drag-and-drop-preview/static/js/3.f8aa353f.chunk.js.map",
+    "index.html": "/drag-and-drop-preview/index.html",
+    "static/css/main.56d1a4c2.chunk.css.map": "/drag-and-drop-preview/static/css/main.56d1a4c2.chunk.css.map",
+    "static/js/2.51f2c38d.chunk.js.LICENSE.txt": "/drag-and-drop-preview/static/js/2.51f2c38d.chunk.js.LICENSE.txt",
+    "static/media/image.5116d193.jpg": "/drag-and-drop-preview/static/media/image.5116d193.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5fc378f.js",
+    "static/js/2.51f2c38d.chunk.js",
+    "static/css/main.56d1a4c2.chunk.css",
+    "static/js/main.843826d7.chunk.js"
+  ]
+}
