@@ -1,0 +1,23 @@
+.fillerStyles {
+  height: 100%;
+  transition: width 5s ease-in-out;
+  border-radius: inherit;
+
+  background-color: #6a1b9a;
+}
+.labelStyles {
+  padding: 5px;
+  color: white;
+  font-weight: 700;
+}
+.containerStyles {
+  height: 20;
+  width: 500px;
+  background-color: #e0e0de;
+  border-radius: 50px;
+  margin: 50px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
