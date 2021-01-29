@@ -6,7 +6,7 @@ const useFileReader = file => {
   const [total, setTotal] = useState(null);
 
   const reader = useMemo(() => {
-    new FileReader();
+  return  new FileReader();
   }, []);
 
   reader.onloadstart = function () {};
